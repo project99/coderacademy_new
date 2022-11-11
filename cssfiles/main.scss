@@ -97,9 +97,9 @@
 }
 
 // Level 2 - Elemental Styling
-// (These definite the primary flow and responsiveness of the page.
+// (These defines the primary flow and responsiveness of the page.
 // Accordingly, styling done here needs to be relooked at for different screen sizes.
-// If I were building a page that would likely be modified in the future, I'd have put
+// Note that if I were building a page that would likely be modified in the future, I'd have put
 // this section in a sparate file)
 
   // 2.0.1 Nav Bar Styling
@@ -249,7 +249,7 @@
 // (All Level 2.0 elements are considered for restyling here)
 
   // 2.1 Tablet Adaptations 
-  // (If I were building a page that would likely be modified in the future, I'd have put
+  // (Note that if I were building a page that would likely be modified in the future, I'd have put
   // this section in a sparate file)
 
 @media screen and (max-width: 900px) {
@@ -406,7 +406,7 @@
 }
 
   // 2.2 Phone Adaptations 
-  // (If I were building a page that would likely be modified in the future, I'd have put
+  // (Note that if I were building a page that would likely be modified in the future, I'd have put
   // this section in a sparate file)
 
   @media screen and (max-width: 650px) {
